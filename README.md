@@ -6,7 +6,7 @@
 ```mermaid
 flowchart TD
     A[Project Proposal] --> B[Budget Lock in Solana Program]
-    B --> C{Peer Approvals (Multi-Sig)}
+    B --> C{"Peer Approvals (Multi-Sig)"}
     C -->|Quorum Reached| D[Milestone Execution]
     C -->|Not Enough Signatures| C
     D --> E{Milestone Verified?}
