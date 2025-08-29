@@ -1,5 +1,8 @@
 # "Traceable Funds": Transparent Project Proposals (using DLT) 
 
+We need a way to trace our funds using a distributed ledger technology ((also known as distributed ledger technology, which is the broader category for technologies like blockchain). Public funds need a transparent way to see all projects and how the budget process is being done. It may not be necessary to use a "blockchain" but just a "distributed" or rather a peer-to-peer approval system, alo0ng with a way, a simple UI, for the public to view the transactions in a simple way.
+
+---
 
 ## Flowchart
 
@@ -15,10 +18,6 @@ flowchart TD
     F --> G[Update Ledger & Public Dashboard]
     G --> H[Auditing & Citizen Transparency]
 ```
-
-Here’s a **short README** draft that just captures the flow in simple sentences:
-
----
 
 
 ## 📌 Idea
